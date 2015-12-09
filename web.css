@@ -1,0 +1,114 @@
+header{
+  align-content: space-between;
+  background-color: #996666;
+  }
+  header .imag {
+    display: block;
+    height:5px;
+    width: 5px;
+    background: #00CC99;
+    text-align: left;
+    padding-top:20px;
+    font-color:white;
+}
+body{
+  background-color: black;
+
+}
+nav{
+  background-color: #996666;;
+  font-size: 16
+  height: 20px;
+  text-align: right;
+padding-top: 2px;
+}
+
+li {
+    display: inline-block;
+    background-color: white;
+}
+#nav ul li a:hover{
+  background-color: #ffb424;
+  box-shadow: 0px 1px 1px #666;
+}
+.part1 img{
+  height: 250px;
+  width: 250px;
+  padding-top:100px;
+  margin-bottom: 10px;
+
+}
+p{
+  color:white;
+
+}
+.part2 img{
+  height: 250px;
+  width: 250px;
+  padding-top:100px;
+  margin-bottom: 10px;
+
+}
+.part3 img{
+  height: 250px;
+  width: 250px;
+  padding-top:100px;
+  margin-bottom: 10px;
+
+}
+p{
+  color: white;
+}
+.Hero img{
+  height: 500px;
+  width: 1000px;
+  align-content: center;
+}
+
+.image{
+
+  margin-bottom: 100px;
+  padding-top:100px;
+  height:100px;
+  width: 100px;
+  align-content: left;
+}
+.matter{
+  float: right;
+  margin-top: 100px;
+  padding-bottom: 50px;
+  height: 300px;
+  width: 300px;
+}
+.page{
+  float: left;
+  margin-top: 100px;
+  padding-top: 50px;
+  height: 300px;
+  width: 300px;
+
+}
+
+.image1{
+  float: right;
+  padding-right: 200px;
+  margin-right: 200px;
+  margin-top: 60px;
+  height:50px;
+  width: 50px;
+  align-content: right;
+}
+footer .foot img{
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding: 4px;
+    padding-top: 100px;
+}
+
+.foot{
+border-radius: 40px;
+border-color: white;
+  display: inline-block;
+  border-top: 50px;
+  }

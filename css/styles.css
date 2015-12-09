@@ -1,0 +1,42 @@
+header{
+  display: block;
+  color:black;
+}
+nav{
+	width: 60%;
+	display: inline;
+	text-align: right;
+	float: right;
+}
+	#nav ul{}
+		#nav ul li{
+			display: inline;
+			height: 62px;
+		}
+			#nav ul li a{
+				padding: 20px;
+				background: orange;
+				color: black;
+			}
+			#nav ul li a:hover{
+				background-color: #ffb424;
+				box-shadow: 0px 1px 1px #666;
+			}
+			#nav ul li a:active{ background-color: #ff8f00; }
+
+
+.part1 {
+padding-left:10px;
+height: 10px;
+width:10px;
+}
+.part2 {
+float: right;
+height: 200px;
+width:200px;
+}
+.part3 {
+  float: right;
+  height: 400px;
+  width:400px;
+}

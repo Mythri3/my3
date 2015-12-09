@@ -1,0 +1,11 @@
+.header{
+text-align:center;
+height:30px;
+width:auto;
+background:grey;
+margin: auto;
+}
+nav ul li{
+  display:inline;
+  height:30px;
+}

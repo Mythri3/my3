@@ -1,0 +1,89 @@
+header{
+  align-content: center;
+  background-color: #996666;
+  }
+  header .imag {
+    display: block;
+    height:10px;
+    width:10px;
+    background: #00CC99;
+    text-align: left;
+    padding-top:20px;
+    font-color:white;
+}
+body{
+  background-color: black;
+
+}
+nav{
+  background-color: #996666;
+  height: 40px;
+  text-align: right;
+padding-top: 2px;
+}
+
+li {
+    display: inline-block;
+    background-color: white;
+    font-size: 50;
+}
+#nav ul li a:hover{
+  background-color: #ffb424;
+  box-shadow: 0px 1px 1px #666;
+}
+.part1 img{
+  height: 200px;
+  width: 200px;
+  padding-top:30px;
+  margin-bottom: 10px;
+
+}
+p{
+  color:white;
+  padding-top: 10px;
+  margin-top: 10px;
+  width: 260px;
+
+}
+.part2 img{
+  height: 200px;
+  width: 200px;
+  padding-top:30px;
+  margin-bottom: 10px;
+
+}
+.part3 img{
+  height: 200px;
+  width: 200px;
+  padding-top:30px;
+  margin-bottom: 10px;
+
+}
+
+p{
+  color: white;
+  padding-top: 10px;
+  margin-top: 10px;
+  width: 260px;
+
+}
+.part4 img{
+  height: 180px;
+  width: 250px;
+}
+.foot img{
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding: 4px;
+    padding-top: 10px;
+}
+
+.foot{
+  background:blue;
+  text-decoration: none;
+  text-align: right;
+  text-shadow: black;
+  overflow: hidden;
+  color:black;
+  }
